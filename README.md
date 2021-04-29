@@ -1,3 +1,10 @@
+# Moved
+
+This repository is no longer used. The `css_colors` package has moved to
+[flutter/packages](https://github.com/flutter/packages/tree/master/packages/css_colors).
+
+---
+
 CSS Colors
 ==========
 
